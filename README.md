@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Angelini
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently doing AI research at Rowan University and a PHD Candidate
+- 🌱 I’m currently doing AI research at Rowan University and a PhD Candidate
 - 📫 You can reach me at chris.f.angelini@gmail.com
 
 <!---
