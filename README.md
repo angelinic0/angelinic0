@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Chris Angelini
 - 👀 I’m interested in Machine Learning and AI, specifically Deep Bayesian Learning and Continual Learning
-- 🌱 I’m currently a PhD Candidate at Rowan University 
 - 📫 You can reach me at chris.f.angelini@gmail.com or angelinic0@rowan.edu
 
 <!---
